@@ -30,5 +30,3 @@ docker compose down remnawave-subscription-page && docker compose up -d remnawav
 ```
 ## Полезные ссылки
 - [Legiz my-remnawave](https://github.com/legiz-ru/my-remnawave)
-
-test
